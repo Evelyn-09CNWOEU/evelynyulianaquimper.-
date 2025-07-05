@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Perfil de Evelyn Quimper Fernandez</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #e9f0f6;
+    }
+
+    .container {
+      max-width: 850px;
+      margin: 30px auto;
+      background-color: #ffffff;
+      padding: 25px 40px;
+      border-radius: 8px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    header {
+      background-color: #2b70b8;
+      color: white;
+      padding: 15px;
+      text-align: center;
+      border-radius: 5px;
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      color: #2b70b8;
+      font-size: 18px;
+      border-bottom: 1px solid #cccccc;
+      padding-bottom: 5px;
+            margin-top: 30px;
+    }
+
+    p {
+      line-height: 1.6;
+      margin: 5px 0;
+    }
+
+    ul {
+      padding-left: 20px;
+      margin: 10px 0;
+    }
+
+    ul li {
+      margin-bottom: 5px;
+    }
+
+    .contactos a {
+      color: #2b70b8;
+      text-decoration: none;
+    }
+
+    .contactos a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Perfil deEvelyn Quimper Fernandez</h1>
+    </header>
+
+    <section class="datos-generales">
+      <h2>Datos Generales</h2>
+      <p><strong>Nombre y Apellido:</strong> Evelyn Quimper Fernandez</p>
+      <p><strong>Carrera:</strong> Ingeniería Industrial</p>
+      <p><strong>Universidad:</strong> Universidad Católica San Pablo</p>
+    </section>
+
+    <section>
+      <h2>Sobre mí</h2>
+      <p>Hola, soy Evelyn Quimper Fernandez, tengo 18 años y soy estudiante de la Universidad Católica San Pablo de la carrera de Ingeniería Industrial.</p>
+    </section>
+
+    <section>
+      <h2>Educación</h2>
+      <ul>
+        <li>Santa Dorotea   ( Primaria  )</li>
+        <li>Nuestra Señora de Los Señores  ( Secundaria )</li>
+       
+      </ul>
+    </section>
+
+    <section>
+      <h2>Cursos que estoy llevando</h2>
+      <ul>
+        <li>Químicac II</li>
+        <li>Matemática</li>
+        <li>Introducción a la Filosofía</li>
+        <li>Economía General</li>
+        <li>Metodología de la Investigación Científica</li>
+        <li>Fundamentos de Informática</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Docente</h2>
+      <p>Ernesto Cuadros-Vargas</p>
+    </section>
+
+    <section class="contactos">
+      <h2>Contacto</h2>
+      <p><strong>Email:</strong> evelyn.quimper@ucsp.edu.pe</p>
+      <p><strong>LinkedIn:</strong> <a href="(https://www.linkedin.com/in/evelyn-yuli-ana-quimper-fernandez)" target="_blank">linkedin.com/in/evelyn-yuli-ana-quimper-fernandez</a></p>
+    </section>
+  </div>
+</body>
+</html>
